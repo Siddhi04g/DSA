@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-public class SortColor{
+public class SortColor{ 
 	  public static void sortColors(int[] nums) {
 	        int zero=0,one=0,two=0;
 	        for(int i=0;i<nums.length;i++){
